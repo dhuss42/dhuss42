@@ -2,11 +2,11 @@
 
 ## Common Core 42 Project overview
 
-| circle_0 | circle_1 | circle_3 |
-|----------|----------|----------|
-| [libft](https://github.com/dhuss42/libft.git)    | Data 1   | Data 2   |
-| Row 2    | Data 3   | Data 4   |
-| Row 3    | Data 5   | Data 6   |
+| circle 0 | circle 1 | circle 2 | circle 3 | circle 4 | circle 5 | circle 6 |
+|----------|----------|----------|----------|----------|----------|----------|
+| [libft](https://github.com/dhuss42/libft.git)    | Data 1   | Data 2   | Data 1   | Data 2   | Data 1   |
+| Row 2    | Data 3   | Data 4   || Row 2    | Data 3   | Data 4   | Data 4   |
+| Row 3    | Data 5   | Data 6   || Row 2    | Data 3   | Data 4   | Data 4   |
 
 
 

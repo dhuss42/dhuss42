@@ -1,5 +1,7 @@
 # About me
 
+Currently Stundent at 42 Heilbronn
+
 # Common Core 42 Project overview
 
 This is an overview of all the projects I have done while being at the 42 Coding School
@@ -11,5 +13,5 @@ This is an overview of all the projects I have done while being at the 42 Coding
 |     | born_2_beroot   | [so_long](https://github.com/dhuss42/so_long.git)   ||     |   |    |   |
 
 
-# currently working on
+# Currently working on
 - the 42 Project [minishell](https://github.com/dhuss42/minishell.git)

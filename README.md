@@ -14,6 +14,6 @@ This is an overview of all the projects I have done while being at the 42 Coding
 
 
 # Currently working on
-- the 42 Projects:
+the 42 Projects:
 - [minishell](https://github.com/dhuss42/minishell.git)
 - [philosophers](https://github.com/dhuss42/philo)

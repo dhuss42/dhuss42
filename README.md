@@ -10,7 +10,7 @@ This is an overview of all the projects I have done while being at the 42 Coding
 |----------|----------|----------|----------|----------|----------|----------|
 | [libft](https://github.com/dhuss42/libft.git)    | [ft_printf](https://github.com/dhuss42/ft_printf.git)  | [push_swap](https://github.com/dhuss42/push_swap.git)   | [minishell](https://github.com/dhuss42/minishell.git)   | [Cpp-Module-00-04](https://github.com/dhuss42/Cpp-Module-00-04)   |    |
 |     | [get_next_line](https://github.com/dhuss42/get_next_line.git)   | [pipex](https://github.com/dhuss42/pipex.git)   |[philosophers](https://github.com/dhuss42/philo)| [cub3D](https://github.com/dhuss42/cub3d)  |    |    |    |
-|     | [born_2_beroot](https://github.com/dhuss42/Born2beRoot/tree/main)   | [so_long](https://github.com/dhuss42/so_long.git)   | [netpractice](https://github.com/dhuss42/netpractice)|     |   |    |   |
+|     | [born_2_beroot](https://github.com/dhuss42/Born2beRoot/tree/main)   | [so_long](https://github.com/dhuss42/so_long.git)   | |[netpractice](https://github.com/dhuss42/netpractice)     |   |    |   |
 
 # Currently working on
 the 42 Project:

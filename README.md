@@ -14,6 +14,5 @@ This is an overview of all the projects I have done while being at the 42 Coding
 
 # Currently working on
 the 42 Project:
-- [netpractice](https://github.com/dhuss42/netpractice)
-- [c++06](https://github.com/dhuss42/cpp06)
+- [c++07]()
 

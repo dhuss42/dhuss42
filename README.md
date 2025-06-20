@@ -16,3 +16,4 @@ This is an overview of all the projects I have done while being at the 42 Coding
 the 42 Project:
 - [inception](https://github.com/dhuss42/inception)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhuss42)](https://github.com/anuraghazra/github-readme-stats)

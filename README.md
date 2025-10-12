@@ -13,7 +13,7 @@ This is an overview of all the projects I have done while being at the 42 Coding
 |     | [born_2_beroot](https://github.com/dhuss42/Born2beRoot/tree/main)   | [so_long](https://github.com/dhuss42/so_long.git)   | |[netpractice](https://github.com/dhuss42/netpractice)     | [ft_irc](https://github.com/dhuss42/ft_irc)  |    |   |
 
 # Currently working on
-the 42 Project: [ft_irc](https://github.com/dhuss42/ft_irc)
+the 42 Project: Transcendence
 
 
 # Stats

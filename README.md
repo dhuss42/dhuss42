@@ -16,5 +16,4 @@ This is an overview of all the projects I have done while being at the 42 Coding
 the 42 Project: Transcendence
 
 
-# Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhuss42&layout=compact&theme=transparent)
+
